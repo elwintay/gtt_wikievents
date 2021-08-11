@@ -1,0 +1,288 @@
+{
+    "in": [
+        "Victim",
+        "Injurer",
+        "Instrument",
+        "BodyPart",
+        "MedicalCondition",
+        "Place"
+    ],
+    "charge": [
+        "Prosecutor",
+        "Defendant",
+        "JudgeCourt",
+        "Crime",
+        "Place"
+    ],
+    "arrest": [
+        "Jailer",
+        "Detainee",
+        "Crime",
+        "Place"
+    ],
+    "det": [
+        "Attacker",
+        "Target",
+        "Instrument",
+        "ExplosiveDevice",
+        "Place"
+    ],
+    "convict": [
+        "JudgeCourt",
+        "Defendant",
+        "Crime",
+        "Place"
+    ],
+    "investigate": [
+        "Investigator",
+        "Defendant",
+        "Crime",
+        "Place"
+    ],
+    "inspection": [
+        "Observer",
+        "ObservedEntity",
+        "Instrument",
+        "Place"
+    ],
+    "attack": [
+        "Attacker",
+        "Target",
+        "Instrument",
+        "Place"
+    ],
+    "contact": [
+        "Participant",
+        "Participant",
+        "Topic",
+        "Place"
+    ],
+    "die": [
+        "Victim",
+        "Place",
+        "Killer",
+        "MedicalIssue"
+    ],
+    "damage": [
+        "Damager",
+        "Artifact",
+        "Instrument",
+        "Place"
+    ],
+    "imp": [
+        "Impeder",
+        "ImpededEvent",
+        "Place"
+    ],
+    "crime": [
+        "Perpetrator",
+        "Victim",
+        "Place"
+    ],
+    "transport": [
+        "Transporter",
+        "PassengerArtifact",
+        "Vehicle",
+        "Origin",
+        "Destination"
+    ],
+    "broadcast": [
+        "Communicator",
+        "Recipient",
+        "Instrument",
+        "Topic",
+        "Place"
+    ],
+    "destroy": [
+        "Destroyer",
+        "Artifact",
+        "Instrument",
+        "Place"
+    ],
+    "medical": [
+        "Treater",
+        "Patient",
+        "MedicalIssue",
+        "Instrument",
+        "Place"
+    ],
+    "demonstrate": [
+        "Demonstrator",
+        "Regulator",
+        "VisualDisplay",
+        "Topic",
+        "Target",
+        "Place"
+    ],
+    "threaten": [
+        "Communicator",
+        "Recipient",
+        "Topic",
+        "Place"
+    ],
+    "identify": [
+        "Identifier",
+        "IdentifiedObject",
+        "IdentifiedRole",
+        "Place"
+    ],
+    "meet": [
+        "Participant",
+        "Participant",
+        "Topic",
+        "Place"
+    ],
+    "evacuation": [
+        "Transporter",
+        "PassengerArtifact",
+        "Vehicle",
+        "Origin",
+        "Destination"
+    ],
+    "ac": [
+        "JudgeCourt",
+        "Defendant",
+        "Crime",
+        "Place"
+    ],
+    "manufacture": [
+        "ManufacturerAssembler",
+        "Artifact",
+        "Components",
+        "Instrument",
+        "Place"
+    ],
+    "di": [
+        "Dismantler",
+        "Artifact",
+        "Instrument",
+        "Components",
+        "Place"
+    ],
+    "sentence": [
+        "JudgeCourt",
+        "Defendant",
+        "Crime",
+        "Sentence",
+        "Place"
+    ],
+    "trial": [
+        "Prosecutor",
+        "Defendant",
+        "JudgeCourt",
+        "Crime",
+        "Place"
+    ],
+    "exchange": [
+        "Giver",
+        "Recipient",
+        "AcquiredEntity",
+        "PaymentBarter",
+        "Beneficiary",
+        "Place"
+    ],
+    "passage": [
+        "Transporter",
+        "PassengerArtifact",
+        "Vehicle",
+        "Preventer",
+        "Origin",
+        "Destination"
+    ],
+    "correspondence": [
+        "Participant",
+        "Participant",
+        "Instrument",
+        "Topic",
+        "Place"
+    ],
+    "command": [
+        "Communicator",
+        "Recipient",
+        "Topic",
+        "Place"
+    ],
+    "defeat": [
+        "Victor",
+        "Defeated",
+        "ConflictOrElection",
+        "Place"
+    ],
+    "research": [
+        "Researcher",
+        "Subject",
+        "Means",
+        "Place"
+    ],
+    "crash": [
+        "DriverPassenger",
+        "Vehicle",
+        "CrashObject",
+        "Place"
+    ],
+    "unspecified": [
+        "DamagerDestroyer",
+        "Artifact",
+        "Instrument",
+        "Place"
+    ],
+    "illegal": [
+        "Transporter",
+        "PassengerArtifact",
+        "Vehicle",
+        "Origin",
+        "Destination"
+    ],
+    "violence": [
+        "Demonstrator",
+        "Regulator",
+        "VisualDisplay",
+        "Topic",
+        "Target",
+        "Place"
+    ],
+    "end": [
+        "Employee",
+        "PlaceOfEmployment",
+        "Position",
+        "Place"
+    ],
+    "def": [
+        "Disabler",
+        "Artifact",
+        "Instrument",
+        "Place"
+    ],
+    "start": [
+        "Employee",
+        "PlaceOfEmployment",
+        "Position",
+        "Place"
+    ],
+    "teaching": [
+        "TeacherTrainer",
+        "FieldOfKnowledge",
+        "Learner",
+        "Means",
+        "Institution",
+        "Place"
+    ],
+    "parole": [
+        "JudgeCourt",
+        "Defendant",
+        "Crime",
+        "Place"
+    ],
+    "donation": [
+        "Giver",
+        "Recipient",
+        "Beneficiary",
+        "ArtifactMoney",
+        "Place"
+    ],
+    "outbreak": [
+        "Disease",
+        "Victim",
+        "Place"
+    ]
+}
